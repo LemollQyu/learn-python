@@ -1,6 +1,7 @@
 # ===============================
 # PERULANGAN FOR DI PYTHON
 # ===============================
+import this
 
 # 1. Perulangan dengan range() → digunakan untuk mengulang berdasarkan angka
 for i in range(5):  # default start=0, stop=5, step=1

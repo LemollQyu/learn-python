@@ -28,4 +28,8 @@ print(data_sets)
 # print(data_sets[2])
 # code itu akan error
 
+# fungsi set unutk hitung data saja tanpa perlu ambil urutannya / urutannya nggak penting
+# tapi manipulasinya sama kaya list
+# istilahnya = himpunan
+
 
